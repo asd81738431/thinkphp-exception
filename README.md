@@ -1,4 +1,6 @@
-thinkphp-exception
+thinkphp-exception  
+
+#基于thinkphp做的自定义异常类，可根据业务自定义错误码
 
 exception('Index',1001);  
 exception('Index',1001,'msg',['test'=>'test']);  
